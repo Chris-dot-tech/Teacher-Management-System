@@ -87,7 +87,7 @@ The system manages the following information:
 
 ## 👨‍💻 Author
 
-**Jacob**
+**Ephraim Christopher**
 
 GitHub: [Chris-dot-tech](https://github.com/Chris-dot-tech)
 
